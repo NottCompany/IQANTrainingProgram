@@ -1,2 +1,0 @@
-# IQANTrainingProgram
-Garage Door Opener
